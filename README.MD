@@ -8,4 +8,4 @@ annotation.
 
 
 ##### Configuration
-The details about the configuration server are stored in the application.yml file
+The details about the configuration server are stored in the bootstrap.yml file
